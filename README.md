@@ -58,7 +58,7 @@ Optimizer: Adam. Loss: sparse categorical cross-entropy. Epochs: 40. Batch size:
 | Setup | Test accuracy |
 |---|---|
 | 5 classes, 30 epochs | ~87% |
-| 10 classes, 40 epochs | _add your result here_ |
+| 10 classes, 40 epochs | %90 |
 
 > Note: the confidence value drawn on the video is the softmax output, not the real accuracy. Use `model.evaluate` on the test set for the true accuracy.
 
